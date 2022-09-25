@@ -1,4 +1,4 @@
-<img src="./src/assets/img/kshared-nocto-copier.png" align="center">
+<img src="./src/assets/img/kshared-nocto-c.png" align="center">
 
 kshared-nocto-copier is copying shared file via command prompt
 
